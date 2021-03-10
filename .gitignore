@@ -1,0 +1,17 @@
+# Django secret key
+backend/backend/secret.py
+
+# Virtual environment
+venv/
+
+# Dependencies
+**/.vscode
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
